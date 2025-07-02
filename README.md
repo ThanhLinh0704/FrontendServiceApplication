@@ -1,10 +1,10 @@
 # Demo webapp
 
-This is a demo web app for identity service
+This is a demo web app for backend service
 
 ## Tech stack
 
-* Node Js version 20 or above
+* Node Js version 23 or above
 * React Js
 * MUI
 
